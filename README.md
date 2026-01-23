@@ -40,6 +40,15 @@
 <!-- About Me Section -->
 <table align="center">
 <tr border="none">
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
+### 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshiras&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
+
+</td>
 <td width="50%" align="left">
 
 ## 👨‍💻 About Me
@@ -56,8 +65,6 @@ const shiras = {
 };
 ```
 
-<br>
-
 ## 🎯 What I'm Doing
 
 - 🔭 Working on **Full-Stack Projects**
@@ -67,11 +74,6 @@ const shiras = {
 - 📫 Reach me: **mchiya1003@gmail.com**
 - ⚡ Motto: **Coffee + Code = Magic ☕**
 
-</td>
-<td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshiras&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
 </td>
 </tr>
 </table>
@@ -131,10 +133,6 @@ const shiras = {
 <p align="center">
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedshiras&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedshiras&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
 
 <br>
 
