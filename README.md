@@ -42,11 +42,9 @@
 <tr border="none">
 <td width="50%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
 
-### 📊 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshiras&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshiras&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="95%"/>
 
 </td>
 <td width="50%" align="left">
@@ -58,7 +56,6 @@ const shiras = {
     location: "Sri Lanka 🇱🇰",
     education: "Software Engineering @ NIBM",
     role: "Full-Stack Developer",
-    currentFocus: "Building scalable applications",
     learning: ["Python", "React", "Spring Boot"],
     askMeAbout: ["Web Dev", "Mobile Dev", "OOP"],
     funFact: "I debug with console.log() 🤫"
@@ -68,11 +65,11 @@ const shiras = {
 ## 🎯 What I'm Doing
 
 - 🔭 Working on **Full-Stack Projects**
-- 🌱 Learning **Python & React Ecosystem**
-- 👯 Open to **collaboration opportunities**
+- 🌱 Learning **Python & React**
+- 👯 Open to **collaboration**
 - 💬 Ask me about **Java, C#, Databases**
-- 📫 Reach me: **mchiya1003@gmail.com**
-- ⚡ Motto: **Coffee + Code = Magic ☕**
+- 📫 **mchiya1003@gmail.com**
+- ⚡ **Coffee + Code = Magic ☕**
 
 </td>
 </tr>
@@ -133,6 +130,10 @@ const shiras = {
 <p align="center">
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedshiras&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedshiras&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" width="90%" alt="Trophy" />
+</div>
 
 <br>
 
