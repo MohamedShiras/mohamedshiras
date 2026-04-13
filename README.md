@@ -44,8 +44,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedshiras&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="95%"/>
-
 </td>
 <td width="50%" align="left">
 
@@ -54,22 +52,13 @@
 ```javascript
 const shiras = {
     location: "Sri Lanka 🇱🇰",
-    education: "Software Engineering @ NIBM",
+    education: "Software Engineering Undergraduate @ NIBM",
     role: "Full-Stack Developer",
-    learning: ["Python", "React", "Spring Boot"],
+    learning: ["React", "Node.js", "Express.js"],
     askMeAbout: ["Web Dev", "Mobile Dev", "OOP"],
     funFact: "I debug with console.log() 🤫"
 };
 ```
-
-## 🎯 What I'm Doing
-
-- 🔭 Working on **Full-Stack Projects**
-- 🌱 Learning **Python & React**
-- 👯 Open to **collaboration**
-- 💬 Ask me about **Java, C#, Databases**
-- 📫 **mchiya1003@gmail.com**
-- ⚡ **Coffee + Code = Magic ☕**
 
 </td>
 </tr>
@@ -121,10 +110,6 @@ const shiras = {
 <br>
 
 ## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedshiras&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</p>
 
 <p align="center">
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedshiras&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
@@ -192,32 +177,19 @@ jobs:
 
 <br>
 
-## 💼 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mohamedshiras/QuickBid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedshiras&repo=QuickBid&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/mohamedshiras/ATM-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedshiras&repo=ATM-Management-System&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
 
 ## 💭 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </p>
+
+<br>
+
+<br>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
