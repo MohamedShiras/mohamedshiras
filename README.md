@@ -13,7 +13,7 @@
   <a href="https://mohamedshiras.dev">
     <img src="https://img.shields.io/badge/🌐_Portfolio-mohamedshiras.dev-black?style=for-the-badge&logoColor=white&color=6C63FF"/>
   </a>
-  <a href="mailto:mchiya1003@gmail.com">
+  <a href="mailto:mhdshiras.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/mohamed-shiras">
@@ -220,7 +220,7 @@ jobs:
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Shiras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mhdshiras.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mchiya1003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-mhdshiras.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/chiya.forsure">
     <img src="https://img.shields.io/badge/Instagram-@chiya.forsure-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
