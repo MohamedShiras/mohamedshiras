@@ -219,7 +219,7 @@ jobs:
   <a href="https://linkedin.com/in/mohamed-shiras">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed_Shiras-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mchiya1003@gmail.com">
+  <a href="mailto:mhdshiras.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-mchiya1003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/chiya.forsure">
