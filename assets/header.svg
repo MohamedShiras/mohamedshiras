@@ -1,0 +1,18 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#09090F"/><stop offset="0.55" stop-color="#151027"/><stop offset="1" stop-color="#09090F"/></linearGradient>
+ <linearGradient id="line" x1="100" y1="20" x2="1100" y2="280" gradientUnits="userSpaceOnUse"><stop stop-color="#7C3AED"/><stop offset="0.5" stop-color="#C4B5FD"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".28"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<circle cx="980" cy="80" r="260" fill="url(#glow)"/>
+<path d="M0 235C210 165 340 315 560 230C760 153 910 190 1200 65" stroke="url(#line)" stroke-opacity=".35" stroke-width="1.5"/>
+<path d="M0 255C230 185 365 320 590 245C810 170 960 205 1200 105" stroke="url(#line)" stroke-opacity=".18"/>
+<g opacity=".55" stroke="#A78BFA"><path d="M900 0V300M960 0V300M1020 0V300M1080 0V300M1140 0V300" stroke-opacity=".12"/><path d="M840 60H1200M840 120H1200M840 180H1200M840 240H1200" stroke-opacity=".12"/></g>
+<text x="76" y="83" fill="#A78BFA" font-family="monospace" font-size="16" letter-spacing="5">HELLO, WORLD — I'M</text>
+<text x="72" y="157" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">MOHAMED SHIRAS</text>
+<text x="78" y="202" fill="#C4B5FD" font-family="monospace" font-size="21">SOFTWARE ENGINEERING UNDERGRADUATE</text>
+<text x="78" y="246" fill="#9CA3AF" font-family="monospace" font-size="15">FULL-STACK  /  MOBILE  /  IoT</text>
+<rect x="76" y="265" width="120" height="3" rx="1.5" fill="#8B5CF6"/>
+<circle cx="1090" cy="90" r="5" fill="#C4B5FD"/><circle cx="1130" cy="145" r="3" fill="#8B5CF6"/><circle cx="1030" cy="205" r="4" fill="#A78BFA"/>
+</svg>
