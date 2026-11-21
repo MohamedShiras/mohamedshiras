@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="236" viewBox="0 0 830 236" role="img" aria-label="Mohamed Shiras. Software Engineering Undergraduate | Full-Stack Developer. Building secure, scalable, and real-world problem-solving applications.">
+<title>Mohamed Shiras. Software Engineering Undergraduate | Full-Stack Developer. Building secure, scalable, and real-world problem-solving applications.</title>
+<style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}</style>
+
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6C63FF"/><stop offset="1" stop-color="#a9a3ff"/></linearGradient>
+<clipPath id="c"><rect x="0.5" y="0.5" width="829" height="235" rx="12"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="829" height="235" rx="12" fill="#0d1117" stroke="#30363d"/>
+<g clip-path="url(#c)"><rect width="830" height="36" fill="#161b22"/><line x1="0" y1="36.5" x2="830" y2="36.5" stroke="#30363d"/></g>
+<circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
+<text x="415" y="22" text-anchor="middle" font-size="12" fill="#8b949e">shiras@github: ~</text>
+<text x="30" y="78" font-size="14" fill="#8b949e"><tspan fill="#3fb950">shiras@github</tspan> <tspan fill="#a9a3ff">~</tspan> $ whoami</text>
+<text x="30" y="130" font-size="42" font-weight="700" fill="url(#g)">Mohamed Shiras</text>
+<text x="30" y="162" font-size="16" fill="#c9d1d9">Software Engineering Undergraduate | Full-Stack Developer</text>
+<text x="30" y="188" font-size="13" fill="#8b949e">Building secure, scalable, and real-world problem-solving applications.</text>
+<circle cx="35" cy="213" r="4" fill="#3fb950"/>
+<text x="48" y="217" font-size="12" fill="#8b949e">Open to collaboration  ·  Sri Lanka</text>
+</svg>

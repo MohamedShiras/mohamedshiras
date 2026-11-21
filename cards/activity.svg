@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="210" viewBox="0 0 830 210" role="img" aria-label="Contributions by month for the last 12 months, with streaks and busiest day">
+<title>Contributions by month for the last 12 months, with streaks and busiest day</title>
+<style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<rect x="0.5" y="0.5" width="829" height="209" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="30" y="32" font-size="14" fill="#8b949e"><tspan fill="#3fb950">shiras@github</tspan> <tspan fill="#a9a3ff">~</tspan> $ ./activity.sh</text>
+<rect x="30.0" y="99.7" width="33.3" height="60.3" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="46.7" y="93.7" font-size="10" fill="#8b949e" text-anchor="middle">96</text>
+<text x="46.7" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Dec</text><rect x="73.3" y="75.3" width="33.3" height="84.7" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="90.0" y="69.3" font-size="10" fill="#8b949e" text-anchor="middle">135</text>
+<text x="90.0" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Jan</text><rect x="116.7" y="119.2" width="33.3" height="40.8" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="133.3" y="113.2" font-size="10" fill="#8b949e" text-anchor="middle">65</text>
+<text x="133.3" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Feb</text><rect x="160.0" y="118.6" width="33.3" height="41.4" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="176.7" y="112.6" font-size="10" fill="#8b949e" text-anchor="middle">66</text>
+<text x="176.7" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Mar</text><rect x="203.3" y="144.9" width="33.3" height="15.1" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="220.0" y="138.9" font-size="10" fill="#8b949e" text-anchor="middle">24</text>
+<text x="220.0" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Apr</text><rect x="246.7" y="149.3" width="33.3" height="10.7" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="263.3" y="143.3" font-size="10" fill="#8b949e" text-anchor="middle">17</text>
+<text x="263.3" y="178" font-size="11" fill="#8b949e" text-anchor="middle">May</text><rect x="290.0" y="123.6" width="33.3" height="36.4" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="306.7" y="117.6" font-size="10" fill="#8b949e" text-anchor="middle">58</text>
+<text x="306.7" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Jun</text><rect x="333.3" y="125.5" width="33.3" height="34.5" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="350.0" y="119.5" font-size="10" fill="#8b949e" text-anchor="middle">55</text>
+<text x="350.0" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Jul</text><rect x="376.7" y="74.0" width="33.3" height="86.0" rx="3" fill="#a9a3ff" opacity="1"/>
+<text x="393.3" y="68.0" font-size="10" fill="#8b949e" text-anchor="middle">137</text>
+<text x="393.3" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Aug</text><rect x="420.0" y="106.6" width="33.3" height="53.4" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="436.7" y="100.6" font-size="10" fill="#8b949e" text-anchor="middle">85</text>
+<text x="436.7" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Sep</text><rect x="463.3" y="124.8" width="33.3" height="35.2" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="480.0" y="118.8" font-size="10" fill="#8b949e" text-anchor="middle">56</text>
+<text x="480.0" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Oct</text><rect x="506.7" y="145.6" width="33.3" height="14.4" rx="3" fill="#6C63FF" opacity="0.8"/>
+<text x="523.3" y="139.6" font-size="10" fill="#8b949e" text-anchor="middle">23</text>
+<text x="523.3" y="178" font-size="11" fill="#8b949e" text-anchor="middle">Nov</text>
+<line x1="580" y1="56" x2="580" y2="186" stroke="#30363d"/>
+<text x="610" y="72" font-size="11" fill="#8b949e">CURRENT STREAK</text>
+<text x="610" y="96" font-size="22" font-weight="700" fill="#e6edf3">1<tspan dx="8" font-size="12" font-weight="400" fill="#8b949e">day</tspan></text>
+<text x="610" y="120" font-size="11" fill="#8b949e">LONGEST STREAK</text>
+<text x="610" y="144" font-size="22" font-weight="700" fill="#e6edf3">13<tspan dx="8" font-size="12" font-weight="400" fill="#8b949e">days</tspan></text>
+<text x="610" y="168" font-size="11" fill="#8b949e">BUSIEST DAY</text>
+<text x="610" y="192" font-size="22" font-weight="700" fill="#e6edf3">16<tspan dx="8" font-size="12" font-weight="400" fill="#8b949e">on Jan 24</tspan></text>
+</svg>
