@@ -1,0 +1,2 @@
+Fonts are from Fontsource and licensed under the SIL Open Font License 1.1:
+Instrument Serif, Instrument Sans, IBM Plex Mono.

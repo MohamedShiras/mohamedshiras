@@ -1,0 +1,12 @@
+{
+  "name": "profile-cards",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cards": "node scripts/build-cards.mjs",
+    "preview": "node scripts/build-cards.mjs --mock"
+  },
+  "dependencies": {
+    "opentype.js": "^1.3.4"
+  }
+}

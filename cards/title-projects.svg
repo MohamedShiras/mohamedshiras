@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="52" viewBox="0 0 830 52" role="img" aria-label="What I'm building">
+<title>What I'm building</title>
+<style>text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace}</style>
+<rect x="0.5" y="0.5" width="829" height="51" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="30" y="32" font-size="16" fill="#8b949e"><tspan fill="#3fb950">$</tspan> <tspan fill="#e6edf3" font-weight="700">What I'm building</tspan></text>
+</svg>
