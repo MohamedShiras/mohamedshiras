@@ -1,0 +1,5 @@
+# only needed to (re)make the ASCII portrait locally, see scripts/prep_photo.py
+Pillow
+numpy
+opencv-python-headless
+rembg[cpu]
