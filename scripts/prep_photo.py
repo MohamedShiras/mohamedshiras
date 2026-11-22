@@ -46,7 +46,7 @@ for _ in range(3):
     smooth = cv2.bilateralFilter(smooth, 9, 40, 9)
 
 # 3. tone stretch over the subject only
-lo, hi = np.percentile(smooth[alpha > 128], [2, 62])
+lo, hi = np.percentile(smooth[alpha > 128], [2, 85])
 tone = np.clip((smooth.astype(np.float32) - lo) / (hi - lo), 0, 1)
 
 # 4. dark-on-light ridges -> darken
