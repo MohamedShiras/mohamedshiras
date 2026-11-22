@@ -19,19 +19,26 @@ import sys
 import cv2
 import numpy as np
 from PIL import Image
-from rembg import remove
+
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 INP = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "..", "source-photo.png")
 OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(HERE, "..", "source-prepped.png")
 
-LINE_WEIGHT = 0.6     # how hard drawn lines are pushed toward black
+LINE_WEIGHT = 1.0     # how hard drawn lines are pushed toward black
 
-# 1. cut out the subject
-cut = remove(Image.open(INP).convert("RGBA"))
-rgb = np.array(cut.convert("RGB"))
-alpha = np.array(cut.split()[-1])                 # 0 = background
-gray = cv2.cvtColor(rgb, cv2.COLOR_RGB2GRAY)
+# 1. cut out the subject (plain light background -> flood fill from the border)
+rgb0 = np.array(Image.open(INP).convert("RGB"))
+g0 = cv2.cvtColor(rgb0, cv2.COLOR_RGB2GRAY)
+h, w = g0.shape
+light = (g0 >= 226).astype(np.uint8)
+n, lab = cv2.connectedComponents(light, connectivity=4)
+bgids = {lab[5, 5], lab[5, w - 6], lab[h // 3, 5], lab[h // 3, w - 6]} - {0}
+bgm = np.isin(lab, list(bgids))
+alpha = np.where(bgm, 0, 255).astype(np.uint8)
+alpha = cv2.morphologyEx(alpha, cv2.MORPH_OPEN, np.ones((5, 5), np.uint8))
+rgb = rgb0
+gray = g0
 
 # 2. smooth texture, keep edges
 smooth = gray
@@ -39,7 +46,7 @@ for _ in range(3):
     smooth = cv2.bilateralFilter(smooth, 9, 40, 9)
 
 # 3. tone stretch over the subject only
-lo, hi = np.percentile(smooth[alpha > 128], [2, 92])
+lo, hi = np.percentile(smooth[alpha > 128], [2, 62])
 tone = np.clip((smooth.astype(np.float32) - lo) / (hi - lo), 0, 1)
 
 # 4. dark-on-light ridges -> darken
